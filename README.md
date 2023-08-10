@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on startup company...
 - 📫 How to reach me folow my instgram dhani_3anggara...
 
-<!---
-DhaniTrianggara86/DhaniTrianggara86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![code_dhani3](https://github.com/DhaniTrianggara86/DhaniTrianggara86/assets/45836868/985cd7dc-c1e4-44c6-aa7d-987f6cde346b)
+  ![code_dhani3](https://github.com/DhaniTrianggara86/DhaniTrianggara86/assets/45836868/985cd7dc-c1e4-44c6-aa7d-987f6cde346b)
+
+
